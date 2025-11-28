@@ -1,0 +1,21 @@
+BITS Pilani Hyderabad Campus
+Object Oriented Programming CS F213 - Exam Paper 3
+Time: 3 Hours                                                    Max Marks: 100
+
+Questions:
+
+1. Explain class and object with examples.
+2. What is method overloading? Provide implementation.
+3. Describe inheritance types in Java.
+4. Explain interface and multiple inheritance.
+5. What is dynamic method dispatch?
+6. Discuss packages in Java.
+7. Explain wrapper classes.
+8. What is autoboxing and unboxing?
+9. Describe String, StringBuffer, and StringBuilder.
+10. Explain garbage collection in Java.
+11. What are annotations in Java?
+12. Discuss generics and type safety.
+13. Explain enum in Java.
+14. What is reflection API?
+15. Describe Java I/O streams.

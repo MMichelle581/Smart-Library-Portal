@@ -1,0 +1,27 @@
+BITS Pilani Hyderabad Campus
+Microbiology BIOT F212 - Exam Paper 2
+Time: 3 Hours                                                    Max Marks: 100
+
+Part A: Microbial Structure (25 marks)
+
+1. Explain the bacterial cell wall structure.
+2. Describe bacterial flagella and motility.
+3. What are pili and fimbriae?
+4. Discuss bacterial spores.
+5. Explain capsules and their significance.
+
+Part B: Microbial Control (35 marks)
+
+6. Describe sterilization methods.
+7. What are disinfectants and antiseptics?
+8. Explain antibiotics and their mechanisms.
+9. Discuss antimicrobial resistance.
+10. What is the concept of MIC and MBC?
+
+Part C: Immunology (40 marks)
+
+11. Explain innate and adaptive immunity.
+12. Describe antigen-antibody interactions.
+13. What are vaccines? Discuss types.
+14. Explain hypersensitivity reactions.
+15. Discuss autoimmune diseases.

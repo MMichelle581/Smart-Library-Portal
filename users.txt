@@ -1,0 +1,5 @@
+test@example.com|Test@123|John Doe
+student@bits.com|Student@456|Jane Smith
+shreyaprasad637@gmail.com|Shreya$12345|Shreya Prasad
+abc@gmai.com|123mich#|Michelle
+def@gmail.com|123def#|Mich

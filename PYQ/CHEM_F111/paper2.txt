@@ -1,0 +1,38 @@
+BITS Pilani Hyderabad Campus
+Chemistry CHEM F111 - Exam Paper 2
+Time: 3 Hours                                                    Max Marks: 100
+
+Section A: Multiple Choice Questions (20 x 1 = 20 marks)
+
+1. Which of the following has the highest electronegativity?
+   a) Fluorine  b) Oxygen  c) Nitrogen  d) Chlorine
+
+2. The shape of NH3 molecule is:
+   a) Linear  b) Trigonal planar  c) Pyramidal  d) Tetrahedral
+
+3. Which type of hybridization is present in methane?
+   a) sp  b) sp2  c) sp3  d) sp3d
+
+[Questions 4-20 continue...]
+
+Section B: Theory Questions (5 x 8 = 40 marks)
+
+21. Explain the concept of chemical equilibrium with suitable examples.
+
+22. Discuss the factors affecting the rate of chemical reactions.
+
+23. Describe the structure and properties of hydrogen bonding.
+
+24. Explain the concept of electrochemistry and galvanic cells.
+
+25. Discuss organic chemistry basics including functional groups.
+
+Section C: Numerical Problems (4 x 10 = 40 marks)
+
+26. Calculate the molarity of a solution containing 5.85g of NaCl in 500mL solution.
+
+27. Determine the wavelength of light emitted when an electron transitions from n=3 to n=2 in a hydrogen atom.
+
+28. Calculate the enthalpy change for the given reaction.
+
+29. Solve the equilibrium problem for the dissociation of acetic acid.

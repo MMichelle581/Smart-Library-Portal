@@ -1,0 +1,23 @@
+BITS Pilani Hyderabad Campus
+Chemistry CHEM F111 - Exam Paper 3
+Time: 3 Hours                                                    Max Marks: 100
+
+Part I: Conceptual Questions (40 marks)
+
+1. Explain quantum mechanical model of atom.
+2. Describe the molecular orbital theory.
+3. What is VSEPR theory? Explain with examples.
+4. Discuss thermochemistry and Hess's law.
+5. Explain colligative properties of solutions.
+
+Part II: Application Problems (30 marks)
+
+6. Apply Le Chatelier's principle to industrial ammonia synthesis.
+7. Calculate buffer solution pH.
+8. Determine reaction order from experimental data.
+
+Part III: Advanced Topics (30 marks)
+
+9. Discuss coordination chemistry and crystal field theory.
+10. Explain spectroscopy principles and applications.
+11. Analyze organic reaction mechanisms.

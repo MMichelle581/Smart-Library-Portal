@@ -1,0 +1,27 @@
+BITS Pilani Hyderabad Campus
+Biology BIO F111 - Exam Paper 1
+Time: 3 Hours                                                    Max Marks: 100
+
+Section A: Cell Biology (30 marks)
+
+1. Describe the structure and function of cell membrane.
+2. Explain the process of cellular respiration.
+3. What is mitosis? Describe its phases.
+4. Compare and contrast prokaryotic and eukaryotic cells.
+5. Discuss the structure of DNA and RNA.
+
+Section B: Genetics (30 marks)
+
+6. Explain Mendel's laws of inheritance.
+7. What is genetic mutation? Describe different types.
+8. Discuss the central dogma of molecular biology.
+9. Explain gene expression and regulation.
+10. Describe DNA replication mechanism.
+
+Section C: Ecology and Evolution (40 marks)
+
+11. Explain Darwin's theory of natural selection.
+12. Describe different types of ecosystems.
+13. What is biodiversity? Discuss its importance.
+14. Explain food chains and food webs.
+15. Discuss population dynamics and growth models.

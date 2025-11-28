@@ -1,0 +1,31 @@
+BITS Pilani Hyderabad Campus
+Object Oriented Programming CS F213 - Exam Paper 1
+Time: 3 Hours                                                    Max Marks: 100
+
+Section A: OOP Fundamentals (25 marks)
+
+1. Define object-oriented programming. Explain its key principles.
+2. What is encapsulation? Give examples in Java.
+3. Explain the concept of inheritance with class hierarchy.
+4. What is polymorphism? Describe method overloading and overriding.
+5. Define abstraction and explain abstract classes vs interfaces.
+
+Section B: Java Programming (35 marks)
+
+6. Explain exception handling in Java with try-catch-finally.
+7. What are collections in Java? Describe ArrayList, LinkedList, HashMap.
+8. Discuss file handling in Java using streams.
+9. Explain multithreading and synchronization.
+10. What are lambda expressions and functional interfaces?
+
+Section C: Design Patterns (20 marks)
+
+11. Explain Singleton design pattern with implementation.
+12. Describe Factory pattern and its use cases.
+13. What is Observer pattern? Give example.
+14. Discuss MVC architecture pattern.
+
+Section D: Programming Problems (20 marks)
+
+15. Write a Java program to implement a banking system using OOP concepts.
+16. Create a program demonstrating inheritance and polymorphism.

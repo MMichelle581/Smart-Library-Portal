@@ -1,0 +1,28 @@
+BITS Pilani Hyderabad Campus
+Object Oriented Programming CS F213 - Exam Paper 2
+Time: 3 Hours                                                    Max Marks: 100
+
+Part I: Theory Questions (40 marks)
+
+1. Explain the four pillars of OOP: Encapsulation, Inheritance, Polymorphism, Abstraction.
+2. What is the difference between abstract class and interface?
+3. Describe method overloading vs method overriding.
+4. Explain static and final keywords in Java.
+5. What is constructor chaining?
+6. Discuss access modifiers in Java.
+7. Explain inner classes and anonymous classes.
+8. What is the purpose of super and this keywords?
+
+Part II: Collections Framework (30 marks)
+
+9. Explain the Java Collections Framework hierarchy.
+10. Compare ArrayList and LinkedList.
+11. What is HashMap? How does it work internally?
+12. Discuss Set interface and its implementations.
+13. Explain Comparable vs Comparator.
+
+Part III: Coding Problems (30 marks)
+
+14. Write a program to demonstrate inheritance.
+15. Implement a custom exception class.
+16. Create a program using collections and generics.

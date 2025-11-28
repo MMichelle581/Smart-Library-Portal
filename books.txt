@@ -1,0 +1,10 @@
+Introduction to Algorithms|Thomas H. Cormen|978-0262033848
+Clean Code|Robert C. Martin|978-0132350884
+Design Patterns|Erich Gamma|978-0201633612
+The Pragmatic Programmer|Andrew Hunt|978-0135957059
+Java: The Complete Reference|Herbert Schildt|978-1260440232
+Effective Java|Joshua Bloch|978-0134685991
+Head First Java|Kathy Sierra|978-0596009205
+Thinking in Java|Bruce Eckel|978-0131872486
+Data Structures and Algorithms|Alfred V. Aho|978-0201000238
+Introduction to Chemistry|Theodore L. Brown|978-0134555638

@@ -1,0 +1,302 @@
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                      SMARTLIBRARYPORTAL - QUICK START GUIDE                ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RUNNING THE APPLICATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Step 1: Open Terminal/Command Prompt
+   Windows: PowerShell or Command Prompt
+   Linux/Mac: Terminal
+
+Step 2: Navigate to Project Directory
+   cd "c:\Users\michl\OneDrive\Desktop\OOPS Project"
+
+Step 3: Compile (if needed)
+   javac *.java
+
+Step 4: Run the Application
+   java SmartLibraryPortal
+
+Step 5: GUI Window Opens
+   → Landing page with Login/Signup buttons appears
+   → Application is ready to use!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TEST ACCOUNTS (READY TO USE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Account 1 - John Doe
+├─ Email: test@example.com
+├─ Password: Test@123
+└─ Status: ✓ Ready
+
+Account 2 - Jane Smith
+├─ Email: student@bits.com
+├─ Password: Student@456
+└─ Status: ✓ Ready
+
+Create Your Own:
+├─ Click "Signup" on landing page
+├─ Enter name, email, password
+├─ Password must have: 6+ chars, 1 symbol (@#$%!), 2 digits
+└─ Account automatically saved
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WORKFLOW WALKTHROUGH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. LANDING PAGE
+   ┌─────────────────────────────────┐
+   │   SmartLibraryPortal            │
+   │  BITS Pilani Hyderabad Campus   │
+   │                                 │
+   │   [Login]  [Signup]             │
+   │                                 │
+   │ Choose Login or Signup to...    │
+   └─────────────────────────────────┘
+   
+   ACTION: Click "Login"
+
+2. LOGIN PAGE
+   ┌─────────────────────────────────┐
+   │          Login                  │
+   │                                 │
+   │ Email:    [test@example.com  ]  │
+   │ Password: [Test@123          ]  │
+   │                                 │
+   │          [Submit]               │
+   │          [Back]                 │
+   └─────────────────────────────────┘
+   
+   ACTION: Enter credentials and click Submit
+
+3. HOME DASHBOARD
+   ┌──────────────────────────────────────────┐
+   │ Welcome to SmartLibraryPortal, John!    │
+   │                                          │
+   │  [Home]                                  │
+   │  [About]                                 │
+   │  [Books]                                 │
+   │  [Question Papers]                       │
+   │  [Logout]                                │
+   └──────────────────────────────────────────┘
+   
+   OPTIONS:
+   • Click "Books" → View e-books (sorted A-Z)
+   • Click "Question Papers" → Access PYQ section
+   • Click "About" → See app information
+   • Click "Logout" → Return to landing page
+
+4. BOOKS SECTION
+   ┌──────────────────────────────────┐
+   │     E-Books Collection           │
+   │                                  │
+   │ • Book 1 by Author               │
+   │ • Book 2 by Author               │
+   │ • Book 3 by Author               │
+   │ • Book 4 by Author               │
+   │ • Book 5 by Author               │
+   │  (Scrollable list)               │
+   │                                  │
+   │      [Back to Home]              │
+   └──────────────────────────────────┘
+
+5. QUESTION PAPERS SECTION
+   ┌────────────────────────────────────────┐
+   │      Question Papers                   │
+   │                                        │
+   │  [PYQ (Previous Year Questions)]       │
+   │                                        │
+   │           [Back to Home]               │
+   └────────────────────────────────────────┘
+   
+   ACTION: Click PYQ button
+
+6. PYQ SELECTION
+   ┌────────────────────────────────────────┐
+   │         Select Subject                 │
+   │                                        │
+   │ Subject Code: [CHEM F111            ] │
+   │ Subject Name: [Chemistry            ] │
+   │                                        │
+   │ Available: CHEM F111, BIO F111, ...   │
+   │                                        │
+   │         [OK]      [Back]               │
+   └────────────────────────────────────────┘
+   
+   SUBJECTS (Examples):
+   • CHEM F111 → Chemistry
+   • BIO F111 → Biology
+   • CS F213 → OOP
+   • BIOT F212 → Microbiology
+   • HSS F252 → International Law
+
+7. PAPER LIST
+   ┌──────────────────────────────────────┐
+   │ Chemistry (CHEM F111) - Papers       │
+   │                                      │
+   │  [Paper 1: paper1.txt             ]  │
+   │  [Paper 2: paper2.txt             ]  │
+   │  [Paper 3: paper3.txt             ]  │
+   │                                      │
+   │ [Similar Paper Finder] ... [AI Gen] │
+   │            [Back]                    │
+   └──────────────────────────────────────┘
+   
+   OPTIONS:
+   • Click paper button → Open paper file
+   • Click "AI Question Generator" → Generate 35 questions
+   • (Similar Paper Finder was removed from this build)
+   • Click "Back" → Return to subject selection
+
+8. AI QUESTION GENERATOR OUTPUT
+   ┌──────────────────────────────────────┐
+   │   AI Generated Questions              │
+   │                                      │
+   │ Generated 35 Questions from: ...     │
+   │                                      │
+   │ 1. Explain the concept of matter...  │
+   │ 2. Define chemical reaction...       │
+   │ 3. Describe the periodic table...    │
+   │ 4. Compare ionic and covalent...     │
+   │ 5. Analyze oxidation-reduction...    │
+   │ ...                                  │
+   │ 35. ... (Scrollable)                 │
+   │                                      │
+   │          [Close]                     │
+   └──────────────────────────────────────┘
+
+9. SIMILAR PAPER FINDER (REMOVED)
+   This feature was removed from the current build. Use the AI Question Generator and direct paper viewing instead.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PASSWORD VALIDATION RULES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Valid Password Example: Test@123
+├─ Length: 8 characters (✓ 6+)
+├─ Symbol: @ (✓ one of @#$%!)
+├─ Digits: 1, 2, 3 (✓ two or more)
+└─ Status: VALID ✓
+
+Invalid Examples:
+├─ "abc123" → Missing symbol ✗
+├─ "Test@abc" → Missing digit ✗
+├─ "Test@1" → Only 7 characters ✗
+└─ "Test1234" → No symbol ✗
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EMAIL VALIDATION RULES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Valid Email Examples:
+├─ test@example.com ✓
+├─ student@bits.com ✓
+├─ user@domain.co.uk ✓
+└─ name@email.org ✓
+
+Invalid Examples:
+├─ testexample.com ✗ (missing @)
+├─ test@ ✗ (incomplete)
+└─ @example.com ✗ (missing username)
+
+RULE: Email MUST contain @ symbol
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TROUBLESHOOTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ERROR: "javac: command not found"
+FIX: Java not installed or not in PATH
+    → Install JDK and add to system PATH
+
+ERROR: "Main method not found in class"
+FIX: Ensure SmartLibraryPortal.java is in same directory
+    → All .java files must be in same folder
+
+ERROR: "papers not found"
+FIX: PYQ directory structure missing
+    → Create: PYQ/CHEM_F111/, PYQ/BIO_F111/, etc.
+    → Add paper files: paper1.txt, paper2.txt, paper3.txt
+
+ERROR: "Invalid Email or Password"
+FIX: Wrong credentials
+    → Use test@example.com / Test@123
+    → Or student@bits.com / Student@456
+
+ERROR: "File not found (users.txt)"
+FIX: First-time setup
+    → Signup creates users.txt automatically
+    → Or copy template from backup
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FILES INCLUDED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SOURCE CODE:
+├─ SmartLibraryPortal.java ............ Main entry point
+├─ GUIManager.java ................... GUI implementation
+├─ AIQuestionGenerator.java .......... Question generation
+└─ Similar Paper Finder (removed) .... Paper search (feature removed)
+
+DATA FILES:
+├─ users.txt ......................... User credentials
+├─ books.txt ......................... Books inventory
+└─ README.md ......................... Documentation
+
+PAPER FILES (PYQ):
+├─ PYQ/CHEM_F111/
+│  ├─ paper1.txt
+│  ├─ paper2.txt
+│  └─ paper3.txt
+├─ PYQ/BIO_F111/
+│  ├─ paper1.txt
+│  ├─ paper2.txt
+│  └─ paper3.txt
+├─ PYQ/CS_F213/
+├─ PYQ/BIOT_F212/
+└─ PYQ/HSS_F252/
+
+SIMILAR PAPERS: (feature removed)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+KEYBOARD SHORTCUTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ALT+F4 ...................... Close application
+TAB ......................... Navigate between fields
+ENTER ....................... Submit form
+ESC ......................... (Not implemented - use buttons)
+CTRL+C ...................... Force quit (Terminal)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FEATURES AT A GLANCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ User Authentication (Login/Signup)
+✓ E-Books Management (Sorted Collection)
+✓ Question Paper Repository (5 Subjects)
+✓ AI Question Generator (35 Questions)
+✓ Similar Paper Finder (Removed)
+✓ User Profile Management
+✓ Persistent Data Storage
+✓ Professional GUI Interface
+✓ Error Handling & Validation
+✓ File I/O Operations
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STATUS: ✓ APPLICATION IS READY TO USE!
+
+═══════════════════════════════════════════════════════════════════════════════

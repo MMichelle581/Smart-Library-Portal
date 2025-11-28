@@ -1,0 +1,36 @@
+BITS Pilani Hyderabad Campus
+Chemistry CHEM F111 - Exam Paper 1
+Time: 3 Hours                                                    Max Marks: 100
+
+Section A: Short Answer Questions (10 x 2 = 20 marks)
+
+1. Define the concept of atomic orbital and explain its significance.
+2. What is electronegativity? Explain the periodic trends.
+3. Describe the structure of benzene and explain resonance.
+4. Compare ionic bonding with covalent bonding.
+5. Explain the concept of oxidation and reduction reactions.
+6. Define molarity and molality with examples.
+7. What is Le Chatelier's principle? Give an example.
+8. Describe the different types of chemical bonds.
+9. Explain the concept of pH and its importance.
+10. What are catalysts and how do they work?
+
+Section B: Long Answer Questions (4 x 10 = 40 marks)
+
+11. Discuss in detail the periodic table and its organization. Explain the trends in atomic radius, ionization energy, and electron affinity.
+
+12. Explain the various theories of chemical bonding including Lewis theory, Valence Bond theory, and Molecular Orbital theory.
+
+13. Describe thermodynamics principles as applied to chemical reactions. Include discussions on enthalpy, entropy, and Gibbs free energy.
+
+14. Analyze the kinetics of chemical reactions. Explain rate laws, reaction mechanisms, and the factors affecting reaction rates.
+
+Section C: Numerical Problems (4 x 10 = 40 marks)
+
+15. Calculate the pH of a solution containing 0.1 M HCl.
+
+16. Determine the equilibrium constant for the reaction: N2 + 3H2 ⇌ 2NH3
+
+17. Calculate the heat of reaction for the combustion of methane.
+
+18. Solve the following stoichiometry problem: How many grams of CO2 are produced when 10g of C3H8 is completely combusted?

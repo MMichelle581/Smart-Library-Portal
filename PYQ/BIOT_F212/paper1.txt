@@ -1,0 +1,27 @@
+BITS Pilani Hyderabad Campus
+Microbiology BIOT F212 - Exam Paper 1
+Time: 3 Hours                                                    Max Marks: 100
+
+Section A: Microbial Diversity (30 marks)
+
+1. Describe the classification of microorganisms.
+2. Explain bacterial cell structure and function.
+3. What are viruses? Discuss their structure and replication.
+4. Compare bacteria, archaea, and eukarya.
+5. Discuss fungal morphology and reproduction.
+
+Section B: Microbial Physiology (35 marks)
+
+6. Explain microbial growth and factors affecting it.
+7. Describe different culture media and techniques.
+8. What is microbial metabolism? Discuss pathways.
+9. Explain fermentation processes.
+10. Discuss microbial genetics and gene transfer.
+
+Section C: Applied Microbiology (35 marks)
+
+11. Explain industrial applications of microorganisms.
+12. Describe food microbiology and preservation.
+13. What is medical microbiology? Discuss pathogens.
+14. Explain environmental microbiology.
+15. Discuss bioremediation and its applications.

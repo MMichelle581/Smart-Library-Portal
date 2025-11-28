@@ -1,0 +1,26 @@
+BITS Pilani Hyderabad Campus
+Biology BIO F111 - Exam Paper 2
+Time: 3 Hours                                                    Max Marks: 100
+
+Part A: Molecular Biology (35 marks)
+
+1. Explain protein synthesis in detail.
+2. Describe enzyme structure and function.
+3. What are the different levels of protein structure?
+4. Discuss metabolic pathways and their regulation.
+5. Explain photosynthesis and its stages.
+
+Part B: Physiology (35 marks)
+
+6. Describe the human circulatory system.
+7. Explain the nervous system and neurotransmission.
+8. What is homeostasis? Give examples.
+9. Discuss the immune system and its components.
+10. Explain the endocrine system and hormones.
+
+Part C: Applied Biology (30 marks)
+
+11. Discuss biotechnology applications.
+12. Explain genetic engineering techniques.
+13. What is CRISPR technology?
+14. Describe bioinformatics and its importance.
