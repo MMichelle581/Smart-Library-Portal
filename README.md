@@ -1,6 +1,6 @@
 # SmartLibraryPortal
 
-## Java Desktop Application for BITS Pilani Hyderabad Campus
+
 
 ### Project Structure
 
